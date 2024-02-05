@@ -1,0 +1,33 @@
+{
+  "name": "solana-wallet-manager",
+  "version": "1.0.0",
+  "description": "This command-line tool for Solana Wallet Management.",
+  "main": "wallet.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enesbuyuk/solana-wallet-manager.git"
+  },
+  "keywords": [
+    "solana",
+    "wallet",
+    "manager",
+    "nodejs",
+    "solana",
+    "wallet",
+    "manager"
+  ],
+  "author": "Enes Büyük",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enesbuyuk/solana-wallet-manager/issues"
+  },
+  "homepage": "https://github.com/enesbuyuk/solana-wallet-manager#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.89.1",
+    "bs58": "^5.0.0",
+    "figlet": "^1.7.0"
+  }
+}
